@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Online Calculator
 
 You can use the [editor on GitHub](https://github.com/suhitk1/calculator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
